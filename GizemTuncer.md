@@ -1,0 +1,1 @@
+<p>I'm Gizem. I was born in İstanbul. I always wanted to be computer enginner and so i am.But i want to improve myself about Game developing...</p>
